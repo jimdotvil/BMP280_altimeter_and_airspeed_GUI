@@ -6,3 +6,5 @@ Libraries:
       
       - Meter (Processing)
       - Adafruit_BMP280 (Arduino)
+
+First setup ino and processing codes for hardware and serial port, then run arduino code. Verify values on monitor and close monitor. Run processing code.
