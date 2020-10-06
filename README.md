@@ -1,4 +1,4 @@
-# arduino_altimeter_and_airspeed_indicator with Processing GUI
+# Arduino altimeter and airspeed indicator with Processing GUI
 
 Display a graphical interface with altitude (ft) and airspeed (knots) values obtained from a BMP280 sensor chip.
 
